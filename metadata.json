@@ -1,0 +1,5 @@
+{
+  "name": "Agropek - Registro de Misturas",
+  "description": "Sistema para registro, edição e cálculo de misturas agrícolas com controle de lotes e pesos.",
+  "requestFramePermissions": []
+}
